@@ -1,3 +1,9 @@
+# Forked for Kyani
+
+Used in [KMSv2](https://github.com/kyani-inc/kms/tree/v2) microservices for DNS-based service discovery.
+
+--------------------
+
 # Go gRPC DNS SRV Load Balancer
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/improbable-eng/go-srvlb)](http://goreportcard.com/report/improbable-eng/go-srvlb)
