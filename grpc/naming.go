@@ -11,9 +11,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/improbable-eng/go-srvlb/srv"
 	"github.com/jonboulle/clockwork"
 	"github.com/jpillora/backoff"
+	"github.com/kyani-inc/go-srvlb/srv"
 	"google.golang.org/grpc/naming"
 )
 

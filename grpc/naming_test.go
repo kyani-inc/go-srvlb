@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/improbable-eng/go-srvlb/srv"
-	"github.com/improbable-eng/go-srvlb/srv/mocks"
 	"github.com/jonboulle/clockwork"
+	"github.com/kyani-inc/go-srvlb/srv"
+	"github.com/kyani-inc/go-srvlb/srv/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc/naming"
